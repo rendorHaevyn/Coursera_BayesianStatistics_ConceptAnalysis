@@ -1,0 +1,45 @@
+========== CONTENTS ===========
+== WEEK 1: PROBABILITY AND BAYE'S THEOREM ==
+== WEEK 2: STATISTICAL INFERENCE ==
+== WEEK 3: PRIORS AND MODELS FOR DISCRETE DATA ==
+== WEEK 4: MODELS FOR CONTINOUS DATA ==
+
+
+========== NOTES ===========
+
+== WEEK 1: PROBABILITY AND BAYE'S THEOREM ==
+
+== PROBABILITY ==
+* three main philosophies of probability and statistics: Bayesian and Frequentist and Classical
+
+1. Classical: outcomes that are equally likely have equal probability.  This works well when we have equally likely outcomes, ie: roll of a die.
+
+2. Frequentist: considers outcomes with respect to relative frequency; objective; requires us to have a hypothetical infinite sequence of events.  Assumes that we are sampling a population with a discrete distribution.
+
+3. Bayesian: considers a personal perspective / judgement; subjective; 
+
+1) In what ways could the frequentist paradigm be considered objective? In what ways could the Bayesian paradigm be considered objective?
+* Frequentist objective: observational, creates conclusions based on evidence; Bayesian objective: uses a similar approach in that probabilities / estimates / conclusions are iteratively updated according to observation
+* Frequentist paradigm: Counts events over a large number of trials rather than assessing belief. Bayesian: Updates beliefs based on actual information.
+
+2) Identify ways in which each paradigm might be considered subjective.
+* Bias is used to influence the probabilities / estimates / conclusions 
+* Frequentist: Assumes that the sample of trials is representative of an infinite series of events. Also, this way of thinking about probabilities makes little sense when assessing the probability of a particular, unique event of occuring (e.g. chance of rain tomorrow). Bayesian: Starts from a prior belief, which may depend on the level of information of each observer or their view of the world.
+
+== BAYES THEOREM ==
+
+
+
+== WEEK 2: STATISTICAL INFERENCE ==
+
+
+== WEEK 3: PRIORS AND MODELS FOR DISCRETE DATA ==
+
+
+== WEEK 4: MODELS FOR CONTINOUS DATA ==
+
+
+.1 .4 .4 .1
+.05 .1 .65 .2
+0 .05 .55 .4
+0 0 .65 .35
